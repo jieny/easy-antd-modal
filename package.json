@@ -1,16 +1,16 @@
 {
   "name": "easy-antd-modal-repo",
   "private": true,
-  "homepage": "https://github.com/Wxh16144/easy-antd-modal#readme",
+  "homepage": "https://github.com/jieny/easy-antd-modal#readme",
   "bugs": {
-    "url": "https://github.com/Wxh16144/easy-antd-modal/issues/new"
+    "url": "https://github.com/jieny/easy-antd-modal/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wxh16144/easy-antd-modal.git"
+    "url": "https://github.com/jieny/easy-antd-modal.git"
   },
   "license": "MIT",
-  "author": "Wxh16144(wxh1220@gmail.com)",
+  "author": "jieny(wxh1220@gmail.com)",
   "scripts": {
     "build": "pnpm --filter={packages/*} run build",
     "build:watch": "pnpm --filter={packages/*} run dev",
@@ -69,7 +69,6 @@
     "dumi": "^2.2.17",
     "dumi-theme-antd-style": "latest",
     "easy-antd-modal": "workspace:*",
-    "easy-antd-modal-m": "workspace:*",
     "eslint": "^8",
     "fast-glob": "^3.3.1",
     "father": "^4",

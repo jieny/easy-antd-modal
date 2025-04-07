@@ -38,7 +38,7 @@ features:
   - title: 长期维护
     image: 📅
     description: 长期维护 (欢迎 PR)
-    link: https://github.com/Wxh16144/easy-antd-modal/pulse
+    link: https://github.com/jieny/easy-antd-modal/pulse
     row: 8
 ---
 

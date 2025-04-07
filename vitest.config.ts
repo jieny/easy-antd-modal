@@ -11,7 +11,6 @@ export default defineConfig({
     alias: {
       '##': __dirname,
       'easy-antd-modal': resolve(__dirname, 'packages/easy-antd-modal/src'),
-      'easy-antd-modal-m': resolve(__dirname, 'packages/easy-antd-modal-mobile/src'),
       '@wuxh/use-modal-enhanced': resolve(__dirname, 'packages/hooks/src'),
     },
     coverage: {
